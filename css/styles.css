@@ -155,7 +155,7 @@ p
 /* CTA section */
 #cta
 {
-  background-color: #ffbd69;
+  background-color: #ffa259;
   color: #fff;
   text-align: center;
   padding: 7% 15%;
@@ -169,7 +169,18 @@ p
   line-height: 1.5;
 }
 
-@media (max-width: 1028px)
+/* Footer Section */
+#footer
+{
+  padding: 7% 15%;
+  text-align: center;
+}
+.social-icon
+{
+     margin: 20px 10px;
+}
+
+#@media (max-width: 1028px)
  {
 
   #title
